@@ -1,0 +1,515 @@
+{
+  "project_info": {
+    "project_number": "1079130710727",
+    "firebase_url": "https://test-me-7890a.firebaseio.com",
+    "project_id": "test-me-7890a",
+    "storage_bucket": "test-me-7890a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:21f4b87fb748a6d59014e2",
+        "android_client_info": {
+          "package_name": "com.alexbezhan.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:d980fc7f2d0058989014e2",
+        "android_client_info": {
+          "package_name": "com.carparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:568d02e318b7c9249014e2",
+        "android_client_info": {
+          "package_name": "com.classes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:bae1dbbe65e44e1a9014e2",
+        "android_client_info": {
+          "package_name": "com.clinic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:712c4b4c845000da9014e2",
+        "android_client_info": {
+          "package_name": "com.diewland.lpr_no_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:4652f8c9b1685d189014e2",
+        "android_client_info": {
+          "package_name": "com.documentscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:1e919b8ae9de7c5a9014e2",
+        "android_client_info": {
+          "package_name": "com.example.doct.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:527ffdb6cb206cb69014e2",
+        "android_client_info": {
+          "package_name": "com.example.tiles_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:13e2b4e295d6bf859014e2",
+        "android_client_info": {
+          "package_name": "com.example.vdsceramic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:4a0c19bbe0ce47f19014e2",
+        "android_client_info": {
+          "package_name": "com.ist.sound.booster.volume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:0cc23cb5a7c0b4bc9014e2",
+        "android_client_info": {
+          "package_name": "com.mp3cutterandmerger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:3367d4b337e33e479014e2",
+        "android_client_info": {
+          "package_name": "com.music.cutter.and.joiner.mp3.audio.merger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:4e0a911aa5f25e4e9014e2",
+        "android_client_info": {
+          "package_name": "com.video.editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079130710727:android:c94f51f4b6c8e54c9014e2",
+        "android_client_info": {
+          "package_name": "com.videomaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMwp_L_Zo5UU3evMux2LaQ6vp60Gn6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079130710727-ci8de7aaesptf5v9jlev2i02reoe23ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079130710727-1q3apoeec1as4uovjfiskk0lp0pgfhvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
